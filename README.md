@@ -93,6 +93,30 @@
       </p>
     </td>
   </tr>
+<tr>
+    <td width="100%" colspan="2">
+      <h3 align="center">Projeto de Automação & IA: Bot de Relatórios Inteligentes</h3>
+      <p align="center">
+        <a href="[LINK-PARA-O-REPOSITORIO-DO-BOT]" target="_blank">
+          <img src="[LINK-PARA-SEU-GIF-DE-DEMONSTRACAO]" alt="Demonstração do Bot de Relatórios com IA">
+        </a>
+      </p>
+      <p>
+        <strong>Descrição:</strong> Um bot que utiliza Python e a IA do Google Gemini para transformar resumos de atividades, enviados via Telegram, em relatórios operacionais e planos de ação que são enviados automaticamente por e-mail, otimizando a comunicação e a gestão de tarefas.
+        <br><br>
+        <strong>Tecnologias:</strong> Python, Google Gemini API, Telegram API, Automação de E-mail.
+      </p>
+      <p align="center">
+        <a href="[LINK-PARA-O-REPOSITORIO-DO-BOT]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Código-333?style=for-the-badge&logo=github">
+        </a>
+        <a href="[LINK-PARA-O-REPOSITORIO-DO-BOT]#-demonstração-do-projeto" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Detalhes-007BFF?style=for-the-badge&logo=readme&logoColor=white">
+        </a>
+      </p>
+    </td>
+  </tr>
+  
 </table>
 ## 📊 Minhas Estatísticas no GitHub
 
