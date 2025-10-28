@@ -37,13 +37,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,mongodb,postgres,mysql,docker,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,postgres,mysql,docker,git" />
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pandas,numpy,jupyter,r,gcp,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=py,gcp,aws,azure" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,powerbi,tableau,looker" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
   </a>
 </p>
 ## 🚀 Projetos em Destaque
