@@ -3,124 +3,178 @@
 </h1>
 
 <h3 align="center">
-  Desenvolvedor Full-Stack & Analista de Dados | Apaixonado por criar soluções inovadoras com código e dados.
+  Full Stack Developer • React • Node.js • Python • Inteligência Artificial
 </h3>
 
 <p align="center">
-  <a href="mailto:jr.adrianopro406@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/adrianojrpro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
- </p>
-
-## 👨‍💻 Sobre Mim
-
-<p>
-  Sou um profissional de tecnologia com uma combinação única de habilidades em **Desenvolvimento Full-Stack** e **Análise de Dados**. Meu objetivo é construir aplicações web robustas e, ao mesmo tempo, extrair insights valiosos que possam direcionar decisões de negócio.
-  <br><br>
-  - 🔭 Atualmente estou trabalhando em... [Ex: um projeto pessoal de e-commerce com dashboard analítico].
-  <br>
-  - 🌱 Estou sempre aprendendo sobre... [Ex: Arquitetura de Microsserviços e modelos de Machine Learning].
-  <br>
-  - 👯 Procuro colaborar em... [Ex: projetos open-source que unam desenvolvimento web e dados].
-  <br>
-  - 🤔 Busco ajuda com... [Ex: otimização de queries em grandes volumes de dados].
-  <br>
-  - 💬 Fale comigo sobre... [Ex: React, Node.js, Python, SQL, Power BI e qualquer coisa sobre tecnologia!].
+  Desenvolvendo aplicações modernas, automações inteligentes e soluções orientadas por IA.
 </p>
-
-## 🛠️ Minhas Habilidades
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,postgres,mysql,docker,git" />
+  <a href="mailto:jr.adrianopro406@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,gcp,aws,azure" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+
+  <a href="https://linkedin.com/in/adrianojrpro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.adrianojrportfolio.com.br">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-## 🚀 Projetos em Destaque
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Projeto Full-Stack 1: [Nome do Projeto]</h3>
-      <p align="center">
-        <a href="[LINK-PARA-O-DEPLOY-DO-PROJETO]" target="_blank">
-          <img src="[LINK-DA-IMAGEM-OU-GIF]" alt="Nome do Projeto">
-        </a>
-      </p>
-      <p>
-        <strong>Descrição:</strong> [Breve descrição do projeto, o problema que ele resolve e suas principais funcionalidades.]
-        <br><br>
-        <strong>Tecnologias:</strong> [React, Node.js, Express, MongoDB, etc.]
-      </p>
-      <p align="center">
-        <a href="[LINK-PARA-O-REPOSITORIO]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Código-333?style=for-the-badge&logo=github">
-        </a>
-        <a href="[LINK-PARA-O-DEPLOY-DO-PROJETO]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Deploy-0077B5?style=for-the-badge&logo=vercel">
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Projeto de Dados 1: [Nome do Projeto]</h3>
-      <p align="center">
-        <a href="[LINK-PARA-O-DASHBOARD-OU-NOTEBOOK]" target="_blank">
-          <img src="[LINK-DA-IMAGEM-OU-GIF]" alt="Nome do Projeto">
-        </a>
-      </p>
-      <p>
-        <strong>Descrição:</strong> [Breve descrição da análise, as perguntas de negócio respondidas e os insights gerados.]
-        <br><br>
-        <strong>Tecnologias:</strong> [Python, Pandas, Matplotlib, Scikit-learn, etc.]
-      </p>
-      <p align="center">
-        <a href="[LINK-PARA-O-REPOSITORIO]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Código-333?style=for-the-badge&logo=github">
-        </a>
-        <a href="[LINK-PARA-O-DASHBOARD-OU-NOTEBOOK]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Análise-228B22?style=for-the-badge&logo=jupyter">
-        </a>
-      </p>
-    </td>
-  </tr>
+---
+
+# 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por desenvolvimento de software.
+
+Atualmente desenvolvo aplicações Full Stack utilizando **React, Node.js, JavaScript, TypeScript e Python**, além de estudar Inteligência Artificial, Arquitetura de Software e Engenharia de Software.
+
+Meu objetivo é construir produtos modernos, performáticos e que resolvam problemas reais.
+
+### Atualmente
+
+- 🚀 Desenvolvendo aplicações Full Stack
+- 🤖 Explorando Inteligência Artificial Generativa
+- 📚 Estudando Arquitetura de Software
+- 🌎 Aprimorando meu inglês
+- 💼 Buscando oportunidades como Desenvolvedor Full Stack
+
+---
+
+# 🛠 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,docker,azure"/>
+
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
+
+<table>
+
 <tr>
-    <td width="100%" colspan="2">
-      <h3 align="center">Projeto de Automação & IA: Bot de Relatórios Inteligentes</h3>
-      <p align="center">
-        <a href="[LINK-PARA-O-REPOSITORIO-DO-BOT]" target="_blank">
-          <img src="[LINK-PARA-SEU-GIF-DE-DEMONSTRACAO]" alt="Demonstração do Bot de Relatórios com IA">
-        </a>
-      </p>
-      <p>
-        <strong>Descrição:</strong> Um bot que utiliza Python e a IA do Google Gemini para transformar resumos de atividades, enviados via Telegram, em relatórios operacionais e planos de ação que são enviados automaticamente por e-mail, otimizando a comunicação e a gestão de tarefas.
-        <br><br>
-        <strong>Tecnologias:</strong> Python, Google Gemini API, Telegram API, Automação de E-mail.
-      </p>
-      <p align="center">
-        <a href="[LINK-PARA-O-REPOSITORIO-DO-BOT]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Código-333?style=for-the-badge&logo=github">
-        </a>
-        <a href="[LINK-PARA-O-REPOSITORIO-DO-BOT]#-demonstração-do-projeto" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Detalhes-007BFF?style=for-the-badge&logo=readme&logoColor=white">
-        </a>
-      </p>
-    </td>
-  </tr>
-  
-</table>
-## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<td width="50%">
+
+## 🤖 AppMimus
+
+### Plataforma Inteligente para Gestão de Pequenos Negócios
+
+O AppMimus é uma plataforma SaaS desenvolvida para apoiar pequenas empreendedoras na administração do negócio, centralizando processos, informações e tarefas em um único ambiente.
+
+O grande diferencial da plataforma é seu **Agente de Inteligência Artificial**, capaz de executar processos operacionais, auxiliar na organização do negócio, responder solicitações e automatizar atividades do dia a dia, reduzindo o tempo gasto com tarefas administrativas.
+
+### Principais funcionalidades
+
+✨ Gestão do negócio
+
+🤖 Agente de IA integrado
+
+📋 Organização de processos
+
+⚙️ Automação de tarefas
+
+📊 Indicadores gerenciais
+
+🔐 Controle de acesso
+
+📱 Interface responsiva
+
+### Tecnologias
+
+- React
+- TypeScript
+- Node.js
+- Inteligência Artificial
+- Banco de Dados
+
+🌐 https://www.appmimus.com.br/
+
+💻 https://github.com/orbitsuportepetropolis-sudo/mimus
+
+## 🚀 Nodus
+
+### Plataforma Inteligente de Gestão de Manutenção Predial
+
+O Nodus é uma plataforma Full Stack desenvolvida para centralizar e automatizar a gestão de manutenção predial. O sistema permite controlar chamados, ordens de serviço, obras, ativos e indicadores em um único ambiente, utilizando Inteligência Artificial para gerar análises e apoiar a tomada de decisão.
+
+### Principais funcionalidades
+
+- 📋 Gestão de chamados
+- 🏗️ Gestão de obras
+- 🔧 Controle de ordens de serviço
+- 🏢 Gestão de ativos
+- 📊 Dashboard gerencial
+- 🤖 IA para análises e geração de insights
+- 📱 Interface responsiva
+- 🔐 Controle de usuários e permissões
+
+### Tecnologias
+
+- React
+- TypeScript
+- Node.js
+- PostgreSQL
+- Inteligência Artificial
+- Vercel
+
+### Links
+
+🌐 Demo
+https://nodus-six.vercel.app/
+
+💻 Repositório
+https://github.com/drstore225-oss/nodus
+
+## 📌 GED Sign
+
+Sistema para gerenciamento e assinatura digital de documentos.
+
+🔗 https://ged-sign.vercel.app/
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Atualmente estudando
+
+- Next.js
+- Inteligência Artificial
+- Engenharia de Software
+- Arquitetura de Software
+- Docker
+- Inglês para Tecnologia
+
+---
+
+# 📫 Contato
+
+📧 **jr.adrianopro406@gmail.com**
+
+💼 **LinkedIn**
+https://linkedin.com/in/adrianojrpro
+
+🌐 **Portfólio**
+https://www.adrianojrportfolio.com.br
