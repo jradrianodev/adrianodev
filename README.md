@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./foto.png" alt="Foto de Adriano Jr" width="150" height="150" style="border-radius: 50%; object-fit: cover; object-position: top; border: 3px solid #333;" />
+</p>
+
 <h1 align="center">
   Olá! 👋 Eu sou o Adriano Jr
 </h1>
